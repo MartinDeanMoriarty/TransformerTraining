@@ -38,11 +38,11 @@ Please ensure you have Python installed on your system.
 
 --prepareData , script is used for preparing data from Minecraft environments, converting it into a format suitable for training :hugs: transformers. This includes steps like cleaning, tokenization, and other preprocessing tasks.
 
---verifyData , script verifies the prepared data to ensure that it meets the required quality standards before proceeding with model training.
+--verifyData , script verifies the prepared data to ensure that it meets the required standards before proceeding with model training.
 
---train , script is used for training :hugs: transformer models using the processed data. It includes options for configuring various aspects of the training process, such as hyperparameters and optimization algorithms.
+--train , script is used for training :hugs: transformer models using the processed data.
 
---evaluateModel , script evaluates the trained model's performance on a validation or test dataset to assess its effectiveness in handling specific tasks related to Minecraft environments.
+--evaluateModel , script evaluates the trained model's performance on a validation or test dataset to assess its effectiveness in handling specific tasks.
 
 ## Contributing
 
