@@ -13,7 +13,8 @@ The repository includes code for handling and processing such data, as well as s
 
 ## Warning
 
-This project is currently under development and should be considered a work in progress. The code provided here may not be fully functional or optimized for production use, and the documentation is incomplete. Use at your own risk.
+This project is currently under development and should be considered a work in progress. 
+The code provided here is not fully functional and the documentation is incomplete. Use at your own risk.
 
 ## Installation
 
