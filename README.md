@@ -13,8 +13,10 @@ The repository includes code for handling and processing such data, as well as s
 
 ## Warning
 
-This project is currently under development and should be considered a work in progress. 
-The code provided here is not fully functional and the documentation is incomplete. Use at your own risk.
+This project is just a starting point and i do NOT know how to make it work,
+because i got no time to deal with dataset creation. 
+The code provided here is not functional and the documentation is incomplete. Use at your own risk.
+Maybe someone stops by and fixes it or leaves an explanation on how to create a dataset correctly.
 
 ## Installation
 
