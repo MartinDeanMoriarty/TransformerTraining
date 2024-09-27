@@ -1,7 +1,7 @@
 # :hugs: TransformerTraining
 
 Welcome! 
-This project focuses on training :hugs: transformers using custom datasets for classification and segmentation, in my case particularly focusing on data from Minecraft environments. 
+This project focuses on training :hugs: transformers using custom datasets for classification and segmentation, in my case particularly focusing on data from Minecraft environments. (minecraft-llm-sandbox)[https://github.com/MartinDeanMoriarty/minecraft-llm-sandbox]
 The repository includes code for handling and processing such data, as well as scripts for model training and evaluation.
 
 ## Table of Contents
