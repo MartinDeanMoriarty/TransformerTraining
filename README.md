@@ -15,10 +15,8 @@ The repository includes code for handling and processing such data, as well for 
 
 ## Warning
 
-This project is just a starting point and i do NOT know how to make it work,
-because i got no time to deal with dataset creation. 
-The code provided here is not tested and the documentation is incomplete. Use at your own risk.
-Maybe someone stops by and fixes it or leaves an explanation on how to create a dataset correctly.
+This project is just a starting point but it should work as is*
+*However, because of the amount of data needed i was never able to train a usable model with it. But at this point my curiosity was already satisfied and i moved on.
 
 ## Installation
 
