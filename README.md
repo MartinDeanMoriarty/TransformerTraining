@@ -16,6 +16,7 @@ The repository includes code for handling and processing such data, as well for 
 ## Warning
 
 This project is just a starting point but it should work as is*
+
 *However, because of the amount of data needed i was never able to train a usable model with it. But at this point my curiosity was already satisfied and i moved on.
 
 ## Installation
